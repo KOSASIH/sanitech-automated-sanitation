@@ -15,7 +15,7 @@ SaniTech is an innovative, automated sanitation and hygiene system designed to a
 5. License
 6. Contact Us
 
-#. Features
+# Features
 
 1. Real-time monitoring of water quality, waste levels, and system performance
 2. Remote management and control of the system
@@ -23,7 +23,7 @@ SaniTech is an innovative, automated sanitation and hygiene system designed to a
 4. Modular design for easy installation, maintenance, and scalability
 5. Sustainable energy usage through renewable sources
 
-#. System Architecture
+# System Architecture
 
 SaniTech's system architecture consists of sensors, actuators, microcontrollers, a central control unit, a user interface, and a cloud infrastructure. These components work together to provide real-time monitoring, remote management, and data analytics capabilities.
 
@@ -40,7 +40,7 @@ To get started with the SaniTech project, follow these steps:
 5. Build and Test: Build and test the various subsystems, ensuring they meet the project's requirements and specifications.
 6. Deploy: Deploy the SaniTech system in a refugee camp or other overcrowded living conditions, following the instructions provided in the project documentation.
 
-#. Contributing
+# Contributing
 
 We welcome contributions from the community! To contribute to the SaniTech project, follow these steps:
 
@@ -53,6 +53,6 @@ We welcome contributions from the community! To contribute to the SaniTech proje
 
 The SaniTech project is licensed under the MIT License. For more information, see the LICENSE file.
 
-#. Contact Us
+# Contact Us
 
 For any questions, concerns, or suggestions, please contact the SaniTech team at contact@sanitech.org.
