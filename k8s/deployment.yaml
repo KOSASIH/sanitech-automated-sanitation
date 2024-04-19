@@ -13,10 +13,10 @@ spec:
         app: sanitech
     spec:
       containers:
-      - name: sanitech-container
-        image: sanitech-image:latest
-        ports:
-        - containerPort: 80
-        env:
-        - name: SANITECH_CONFIG
-          value: "/path/to/config/file"
+        - name: sanitech-container
+          image: sanitech-image:latest
+          ports:
+            - containerPort: 80
+          env:
+            - name: SANITECH_CONFIG
+              value: "/path/to/config/file"
