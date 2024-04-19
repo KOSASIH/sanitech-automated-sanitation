@@ -1,0 +1,33 @@
+#!/bin/bash
+
+echo "Updating Terraform state..."
+terraform state pull > terraform.tfstate
+
+echo "Refreshing Terraform state..."
+terraform refresh
+
+echo "Upterraform init"
+        },
+        {
+          name  = "terraform validate"
+          run   = "terraform validate"
+        },
+        {
+          name  = "terraform apply"
+          run   = "dating secrets in AWS Secrets Manager..."
+aws secretsmanager update-secret --secret-id example-secret --secret-stringterraform apply -auto-approve"
+        }
+      ]
+    }
+  }
+}
+``` '{"github_token": "your-updated-github-token"}'
+
+echo "Pushing updated Terraform state
+
+**sanitech\_environment\_variables.tf**
+
+```hcl
+variable "github_token" {
+ to backend..."
+terraform state push -force
