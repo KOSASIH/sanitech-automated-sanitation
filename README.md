@@ -3,7 +3,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/kosasih/sanitech-automated-sanitation/badge)](https://www.codefactor.io/repository/github/kosasih/sanitech-automated-sanitation)
 ![Static Badge](https://img.shields.io/badge/Refugee-care-white)
 
-
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/sanitech-automated-sanitation">sanitech-automated-sanitation</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # sanitech-automated-sanitation
@@ -12,6 +11,7 @@ The SaniTech project's Git repository, named sanitech-automated-sanitation, cont
 This repository will serve as the central hub for developers, designers, and contributors to collaborate, share ideas, and work towards improving the overall health and well-being of refugees in need.
 
 # SaniTech: Automated Sanitation and Hygiene Solution
+
 SaniTech is an innovative, automated sanitation and hygiene system designed to address the critical cleanliness and health concerns faced by refugees in overcrowded conditions. By leveraging cutting-edge technologies, SaniTech aims to provide a scalable, sustainable, and cost-effective solution to ensure access to clean water, proper sanitation, and hygiene education for refugees worldwide.
 
 # Table of Contents
