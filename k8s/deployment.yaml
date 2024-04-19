@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sanitech-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: sanitech
+  template:
+    metadata:
+      labels:
+        app: sanitech
+    spec:
+      containers:
+      - name: sanitech-container
+        image: sanitech-image:latest
+        ports:
+        - containerPort: 80
+        env:
+        - name: SANITECH_CONFIG
+          value: "/path/to/config/file"
