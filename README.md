@@ -51,7 +51,7 @@ We welcome contributions from the community! To contribute to the SaniTech proje
 
 # License
 
-The SaniTech project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE.md)file.
+The SaniTech project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE.md) file.
 
 # Contact Us
 
