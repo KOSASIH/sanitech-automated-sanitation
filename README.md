@@ -1,3 +1,4 @@
+[![CI](https://github.com/KOSASIH/sanitech-automated-sanitation/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/sanitech-automated-sanitation/actions/workflows/blank.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/kosasih/sanitech-automated-sanitation/badge)](https://www.codefactor.io/repository/github/kosasih/sanitech-automated-sanitation)
 ![Static Badge](https://img.shields.io/badge/Refugee-care-white)
 
