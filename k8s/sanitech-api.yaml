@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sanitech-api
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: sanitech-api
+  template:
+    metadata:
+      labels:
+        app: sanitech-api
+    spec:
+      containers:
+      - name: sanitech-api
+        image: sanitech/api:latest
+        ports:
+        - containerPort: 8080
